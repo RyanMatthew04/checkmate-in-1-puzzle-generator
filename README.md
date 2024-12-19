@@ -8,4 +8,4 @@ By using GANs trained on historical chess positions, the app generates checkmate
 The generated positions are processed through a backtracking algorithm to ensure their validity and solvability, offering a unique and challenging experience for users.
 
 ## Getting Started
-Download the folder >> Open folder in VS Code >> Install dependencies >> Type 'python app.py' in terminal and click enter >> Follow the link and test out the web app
+Download the folder >> Open folder in VS Code >> Install dependencies >> Run 'python app.py' in terminal and click enter >> Follow the link and test out the web app
